@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author emeris
+ * @author emeris Vincent Mothibi
  */
 public class StudentTotalMarks 
 {
