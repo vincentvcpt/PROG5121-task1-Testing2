@@ -7,7 +7,7 @@ package com.mycompany.studenttotalmarks;
 
 /**
  *
- * @author emeris
+ * @author emeris Vincent Mothibi
  */
 public class StudentClass 
 {
